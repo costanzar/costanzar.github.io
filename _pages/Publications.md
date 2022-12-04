@@ -8,25 +8,25 @@ author_profile: true
 classes: wide
 
 feature_row1-0:
-  - image_path: assets/images/JAMES_YZS2022.png
-    excerpt: "[Influences of Mesoscale Ocean Eddies on Flow Vertical Structure in a Resolution-Based Model Hierarchy](https://www.essoar.org/doi/10.1002/essoar.10511501.1) <br /> 
-    **Elizabeth Yankovsky**, Laure Zanna, and K. Shafer Smith (2022). 
-    *Submitted to JAMES*. <br /> 
-    Preprint doi: https://doi.org/10.1002/essoar.10511501.1"
+  - image_path: assets/images/wcd.png
+    excerpt: "[Jet stream variability in a polar warming scenario – a laboratory perspective](https://doi.org/10.5194/wcd-3-937-2022) <br /> 
+    **Costanza Rodda**, Uwe Harlander, and Miklos Vincze (2022). 
+    *Weather and Climate Dynamics *. <br /> 
+    doi: https://doi.org/10.5194/wcd-3-937-2022"
 
 feature_row1-1:
-  - image_path: /assets/images/NW2paper.png
-    excerpt: "[NeverWorld2: An idealized model hierarchy to investigate ocean mesoscale eddies across resolutions](https://doi.org/10.5194/gmd-15-6567-2022)  <br />
-    Gustavo Marques, Nora Loose, **Elizabeth Yankovsky**, Jacob Steinberg, Chiung-Yin Chang, Neeraja Bhamidipati, Alistair Adcroft, Baylor Fox-Kemper, Stephen Griffies, Robert Hallberg, Malte Jansen, Hemant Khatri, and Laure Zanna (2022).
-    *Submitted to Geoscientific Model Development*. <br />
-    Preprint doi: https://doi.org/10.1002/essoar.10511043.1"
+  - image_path: /assets/images/fluids.png
+    excerpt: "[Probability Distribution of Extreme Events in a Baroclinic Wave Laboratory Experiment](https://doi.org/10.3390/fluids7080274)  <br />
+    Uwe Harlander, Ion Dan Borcia, Miklos Vincze, and **Costanza Rodda** (2021).
+    *Fluids*. <br />
+    doi: https://doi.org/10.3390/fluids7080274
 
 feature_row1-2:
-  - image_path: /assets/images/JOSS_logo.jpeg
-    excerpt: "[GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data](https://doi.org/10.21105/joss.03947)  <br />
-    Nora Loose, Ryan Abernathey, Ian Grooms, Julius Busecke, Arthur Guillaumin, **Elizabeth Yankovsky**, Gustavo Marques, Jacob Steinberg, Andrew Slavin Ross, Hemant Khatri, Scott Bachman, Laure Zanna, and Paige Martin (2022).
-    *Journal of Open Source Software*. <br />
-    doi: https://doi.org/10.21105/joss.03947"
+  - image_path: /assets/images/Drake.png
+    excerpt: "[The Drake Passage opening from an experimental fluid dynamics point of view](https://doi.org/10.1038/s41598-021-99123-0)  <br />
+    Miklós Vincze, Tamás Bozóki, Mátyás Herein, Ion Dan Borcia, Uwe Harlander, Attila Horicsányi, Anita Nyerges, **Costanza Rodda**, András Pál & József Pálfy  (2021).
+    *Scientific Reports*. <br />
+    doi: https://doi.org/10.1038/s41598-021-99123-0"
 
 feature_row1-3:
   - image_path: /assets/images/GCMFilters_JAMES.png
@@ -36,18 +36,33 @@ feature_row1-3:
     doi: https://doi.org/10.1029/2021MS002552"
 
 feature_row1-4:
-  - image_path: /assets/images/JAMES_SIP.png
-    excerpt: "[Parameterization of Submesoscale Symmetric Instability in Dense Flows Along Topography](https://doi.org/10.1029/2020MS002264)  <br />
-    **Elizabeth Yankovsky**, Sonya Legg, and Robert Hallberg (2021).
-    *Journal of Advances in Modeling Earth Systems*. <br />
-    doi: https://doi.org/10.1029/2020MS002264"
+  - image_path: /assets/images/Spectra.pdf
+    excerpt: "[Transition from geostrophic flows to inertia-gravity waves in the spectrum of a differentially heated rotating annulus experiment.](https://doi.org/10.1175/JAS-D-20-0033.1)  <br />
+    **Costanza Rodda** and Uwe Harlander (2020).
+    * Journal of Atmospheric Science*. <br />
+    doi: https://doi.org/10.1175/JAS-D-20-0033.1 <br />
+    A long-standing question is what causes the -5/3 slope in the atmospheric spectra at the mesoscale: is it turbulence?  
+    Gravity waves? Something else? <br />
+    In this work, we use a laboratory experiment-the differentially heated rotating annulus-to investigate the problem. 
+    Our experimental spectra show striking similarities to the atmospheric one. By separating the spectra into the vortex 
+    and wave component, it emerges that at the large-scale end of the mesoscale the gravity waves observed in the 
+    experiment cause a flattening of the spectra and provide most of the energy. At smaller scales, our data analysis 
+    suggests a transition towards a turbulent regime with a forward energy cascade up to where dissipation by 
+    diffusive processes occurs."
 
 feature_row1-5:
-  - image_path: /assets/images/SIpaper.png
-    excerpt: "[Symmetric and Baroclinic Instability in Dense Shelf Overflows](https://doi.org/10.1175/JPO-D-18-0072.1)  <br />
-    **Elizabeth Yankovsky** and Sonya Legg (2019).
-    *Journal of Physical Oceanography*. <br />
-    doi: https://doi.org/10.1175/JPO-D-18-0072.1"
+ - image_path: /assets/images/ExperimentsFluids.png
+    excerpt: "[A new atmospheric-like differentially heated rotating annulus configuration to study gravity wave emission from jets and fronts.](https://doi.org/10.1007/s00348-019-2825-z)  <br />
+    **Costanza Rodda**, Steffen Hien, Ulrich Achatz, and Uwe Harlander (2019).
+    *Experiments in Fluids*. <br />
+    doi: https://doi.org/10.1007/s00348-019-2825-z  <br />
+    A new configuration of the classical baroclinic annulus experiment, recently built at the BTU laboratory, is presented 
+    in this paper. We called this experiment the “atmospheric-like” differentially heated rotating annulus for its 
+    characteristic aspect ratio that makes it more similar to the Earth’s atmosphere. <br />
+    The first evidence of gravity waves emitted from the baroclinic jet is reported. The conditions for gravity wave 
+    emission and propagation in this particular experimental set-up are examined in detail with the support of comparable 
+    numerical simulations. It emerges that, due to the complex horizontal structure of the buoyancy frequency N, where the 
+    largest values occur along the baroclinic jet axis, the gravity waves in the experiment are observed to be trapped."
 
 feature_row1-6:
   - image_path: /assets/images/barostrat.png
@@ -68,9 +83,9 @@ feature_row1-6:
 
 feature_row1-7:
   - image_path: /assets/images/thesis.png
-    image_caption: "Figure from Jakobsson (2002)"
-    excerpt: "[Modeling and Parameterizing Submesoscale Turbulence in Dense Arctic Flows](https://dataspace.princeton.edu/handle/88435/dsp014f16c588m) <br />
-    **Elizabeth Yankovsky** (2020). Advised by: Sonya Legg, Robert Hallberg, Rong Zhang, and Stephen Griffies."
+    #image_caption: "Figure from Jakobsson (2002)"
+    excerpt: "[Gravity wave emission from jet systems in the differentially heated rotating annulus experiment](ISBN: 9783736971103) <br />
+    **Costanza Rodda** (2020). Advised by: Uwe Harlander."
 --- 
 
 ### Preprints
