@@ -4,10 +4,11 @@ title: "Women in science"
 permalink: /Outreach/
 header:
     overlay_image: /assets/images/Scientists1.jpg
+    caption: "Artist: Nina Chhita @nina.draws.scientists"
 author_profile: true
 classes: wide
 feature_row1-0:
-  - title: "Artist: Nina Chhita @nina.draws.scientists" 
+  - title: "" 
     excerpt: "
     
 According to UNESCO science report, today only 29% of researchers are women and only 3% of Scientific Nobel Prizes have been awarded to women.
