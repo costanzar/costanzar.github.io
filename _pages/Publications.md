@@ -10,9 +10,8 @@ classes: wide
 feature_row1-0:
   - image_path: assets/images/numerics.jpg
     excerpt: "[Numerical study of experimentally inspired stratified turbulence forced by waves](
-https://doi.org/10.48550/arXiv.2210.02855
-) <br /> 
-    Jason Reneuve, Clément Savaro, Géraldine Davis, **Costanza Rodda**, Nicolas Mordant and Pierre Augier (2022). 
+https://doi.org/10.48550/arXiv.2210.02855) <br /> 
+    Jason Reneuve, Clément Savaro, Géraldine Davis, **Costanza Rodda**, Nicolas Mordant, and Pierre Augier (2022). 
     *submitted to Physical Review Fluids.* <br /> 
     doi: https://doi.org/10.48550/arXiv.2210.02855"
 
@@ -41,7 +40,7 @@ feature_row1-3:
 feature_row1-4:
   - image_path: /assets/images/Drake.png
     excerpt: "[The Drake Passage opening from an experimental fluid dynamics point of view](https://doi.org/10.1038/s41598-021-99123-0)  <br />
-    Miklós Vincze, Tamás Bozóki, Mátyás Herein, Ion Dan Borcia, Uwe Harlander, Attila Horicsányi, Anita Nyerges, **Costanza Rodda**, András Pál & József Pálfy  (2021).
+    Miklós Vincze, Tamás Bozóki, Mátyás Herein, Ion Dan Borcia, Uwe Harlander, Attila Horicsányi, Anita Nyerges, **Costanza Rodda**, András Pál and József Pálfy (2021).
     *Scientific Reports* <br />
     doi: https://doi.org/10.1038/s41598-021-99123-0"
 
