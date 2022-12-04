@@ -12,7 +12,7 @@
 
 # theme                    : "minimal-mistakes-jekyll"
 # remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin      : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin      : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/bio_pic.jpg"
   bio              : "Physicist, <br> Fluid Dynamicist"
   location         : "London, UK"
-  email            : #"eay8226@nyu.edu"
+  email            : "costanza.rodda@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
