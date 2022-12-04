@@ -9,19 +9,19 @@ author_profile: true
 classes: wide
 
 ---
-## Vertical Structure of Ocean Eddies
+## Thermal stratification and mixing in confined spaces
 
 <div style="width:60%;  padding-left: 10px; float:right">
-    {% include figure image_path="/assets/images/clusters.png" caption ="*Regimes in eddy vertical structure based on the CM2.6 0.1 degree model. Clusters are obtained by applying Gaussian Mixture modeling to characterize eddy velocity as a function of depth.*"%}
+    {% include figure image_path="/assets/images/TboxH_July.pdf" caption ="Box plot of hourly temperature recorded in July 2022 by sensors at four different heights.*"%}
 </div>
-Mesoscale eddies are swirling oceanic vortices with horizontal scales of 10s-100s of kilometers, evolving on time scales of days to months. These features occupy a disproportionately large role in setting the global ocean state and contain about 90% of the ocean’s kinetic energy. Mesoscale eddies modulate the ocean’s stratification, energetic pathways, and mixing/transport of physical and biogeochemical tracers such as heat, oxygen, carbon, and nutrients. 
+The fluid dynamics found in buildings results from a complex interplay among sources of energy at different spatial scales, forced by large-scale convective motions and dissipated by diapycnal mixing. Predicting how this interplay produces or destroys thermal stratification in an enclosed space is an open question that needs to be addressed to enable energy consumption estimations and mitigation of risks related to contaminant transport.
 
-A characteristic of ocean eddies that is critical to predicting their influences on other physical and biogeochemical oceanic processes is their vertical structure. In some regions, eddies are strongly surface-intensified and their energy decays to zero below the uppermost few hundred meters of the water column. In other regimes, eddies are more barotropic (uniform with depth), and retain significant energy down to depths of 5-6 kilometers. I am interested in studying the factors governing eddy vertical structure regimes by applying a combination of idealized numerical modeling, analyzing high-resolution ocean models, and comparing model results to full-depth observations where available. Results of this work will allow us to incorporate vertical structure knowledge when parameterizing mesoscale eddies in coarser climate models, and allow us to infer deep ocean properties from surface measurements. 
+We use a highly instrumented computer laboratory to investigate the problem of thermal stratification in a mechanically ventilated room. Heating sources at the floor level are typically non-uniform and time-dependent. Such thermal boundary conditions are particularly challenging as they lie between localised sources of buoyancy, which would lead to turbulent plumes and tend to maintain a stable stratification, and distributed sources that have a destabilising effect. Temperature and CO2 are measured at key positions within the room, yielding insights into the flow and mixing occurring in the room. In addition, the heat input due to computers is metered and the room occupancy is recorded. These measurements enable us to estimate the room energy budget.
 
-This work is part of the [Ocean Transport and Eddy Energy Climate Process Team]( https://ocean-eddy-cpt.github.io/). 
-A talk on eddy vertical structure that I presented virtually at the Ocean Sciences 2022 meeting may be found [here](https://www.youtube.com/watch?v=BolUfp-Q8MQ&ab_channel=Zannalab-Climate%26OceanPhysics).
+This work is part of the project [DStratify](https://www.dstratify.org). 
 
-## Submesoscale Turbulence and Mixing
+
+## Internal Gravity wave turbulence
 <div style="width:40%;  padding-left: 10px; float:right">
     {% include figure image_path="/assets/images/plume_SI.png" caption = "*Symmetric instability in an estuarine tidally-modulated plume. Ertel potential vorticity (EPV) is plotted; symmetrically unstable regions are those with negative EPV. SI develops along the sharp density fronts formed by the outflowing plume; as the plume evolves the SI leads to irreversible mixing and entrainment of the plume.*"%}
 </div>
@@ -38,7 +38,7 @@ I am interested in a particular submesoscale process known as symmetric instabil
 </p>
 
 
-## Arctic Overflows & Climate Change
+## Climate Change throught laboratory experiments
 
 <div style="width:50%;  padding-left: 10px; padding-bottom: 1%; float:right">
     {% include figure image_path="/assets/images/Arctic_1.png" caption = "*Image from the  [National Snow and Ice Data Center](https://nsidc.org/home). Shown is the sea ice extent in the Arctic Ocean during the sea ice minimum (which typically occurs in September) and the sea ice maximum (March). The pink line shows the median ice edge from 1981-2010 for each of those months. Once can see the strong seasonal cycle in ice formation as well as the drastic decline in ice cover over the past several decades.*"%}
@@ -47,7 +47,7 @@ The term “overflow” refers to the buoyancy-driven descent of dense water for
 
 Perhaps the most striking case of shelf overflows occurs in the Arctic Ocean, where the shallow marginal seas comprise approximately 53% of the surface area. The vast Arctic shelves are characterized by a strong seasonal cycle, with ice melting in the spring/summer months, and intense cooling with sea-ice formation in the autumn/winter months. The combination of cooling and salty brine rejection from developing sea ice leads to highly dense waters being formed in the shelves. These dense waters are among the densest in the World Ocean and ventilate the deepest portions of the Arctic. My research has focused on studying the dynamics and mixing processes that dense overflows undergo as they propagate into the ocean interior. This understanding is crucial to explaining the water mass structure of the entire basin and predicting its response to changing climatic conditions. I am also exploring the changes in dense water formation and ventilation pathways that the Arctic will experience as a result of warming. 
 
-## Model Development
+## Spontaneous emission of gravity waves
 <div style="width:100%; float:center">
     {% include figure image_path="/assets/images/MEKE.png" %}
 </div>
@@ -57,14 +57,3 @@ Perhaps the most striking case of shelf overflows occurs in the Arctic Ocean, wh
 My graduate and postdoctoral research have both focused on studying physical processes and then deriving approaches to representing them in climate models. During my PhD research I developed a parameterization (within the GFDL-MOM6) for representing submesoscale symmetric instability in the abyssal ocean. I applied the scheme to studying dense gravity currents in the Arctic Ocean, and found that it successfully captured the mixing influences of submesoscale turbulence when not explicitly resolved. 
 
 In my postdoc research I have been focusing on improving our ability to model mesoscale eddies in modern ocean models, with a focus on representing the vertical structure influences of eddies accurately. I am especially interested in how to parameterize mesoscale eddies at resolutions that partially resolve them, a challenging regime for existing schemes. 
-
-## Dynamics of Estuaries
-Estuaries are dynamic locations where rivers meet the ocean. They serve as habitats for a rich breadth of species, influence coastal ocean properties, and provide significant ecological, cultural, and economic benefits. Recently I have been studying the various regimes characterizing freshwater river plumes through high-resolution numerical modeling using the nonhydrostatic MITgcm. I have focused how these freshwater plumes entrain and mix with the ambient ocean, what influences whether or not they maintain coherence as they propagate offshore, and the role of submesoscale instabilities and waves in their dynamics.
-
-<center>
-<video width="90%" height="auto" max-height="100%" controls="controls">
-  <source src="/assets/images/plume_video.mp4" type="video/mp4">
-</video>
-</center>
-<p style="font-family:caption-font-family; font-size:type-size-6; margin-bottom: 0.5em; text-align:justify"><i>Video shows the evolution of a river plume under two regimes — with constant northward winds (left) and with no winds (right). One can note the drastic difference in the propagation and horizontal extent of the plume. </i>
-</p>
