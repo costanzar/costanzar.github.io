@@ -3,7 +3,7 @@ layout: single
 title: "Women in science"
 permalink: /Outreach/
 header:
-    overlay_image: /assets/images/bannerocean.jpeg
+    overlay_image: /assets/images/Scientists1.jpg
 author_profile: true
 classes: wide
 feature_row1-0:
