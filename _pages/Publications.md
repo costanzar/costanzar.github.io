@@ -47,7 +47,7 @@ feature_row1-4:
 feature_row1-5:
   - image_path: /assets/images/Spectra.pdf
     excerpt: "[Transition from geostrophic flows to inertia-gravity waves in the spectrum of a differentially heated rotating annulus experiment.](https://doi.org/10.1175/JAS-D-20-0033.1)  <br />
-    **Costanza Rodda** and Uwe Harlander (2020).
+   **Costanza Rodda** and Uwe Harlander (2020).
     *Journal of Atmospheric Science*. <br />
     doi: https://doi.org/10.1175/JAS-D-20-0033.1 <br />
     A long-standing question is what causes the -5/3 slope in the atmospheric spectra at the mesoscale: is it turbulence?  
@@ -61,7 +61,7 @@ feature_row1-5:
 
 feature_row1-6:
  - image_path: /assets/images/ExperimentsFluids.png
-    excerpt: "[A new atmospheric-like differentially heated rotating annulus configuration to study gravity wave emission 
+   excerpt: "[A new atmospheric-like differentially heated rotating annulus configuration to study gravity wave emission
     from jets and fronts.](https://doi.org/10.1007/s00348-019-2825-z)  <br />
     **Costanza Rodda**, Steffen Hien, Ulrich Achatz, and Uwe Harlander (2019).
     *Experiments in Fluids*. <br />
@@ -73,6 +73,7 @@ feature_row1-6:
     emission and propagation in this particular experimental set-up are examined in detail with the support of comparable 
     numerical simulations. It emerges that, due to the complex horizontal structure of the buoyancy frequency N, where the 
     largest values occur along the baroclinic jet axis, the gravity waves in the experiment are observed to be trapped."
+
 
 feature_row1-7:
   - image_path: /assets/images/barostrat.png
@@ -111,3 +112,6 @@ feature_row1-8:
 ### Books
 &nbsp;
 {% include feature_row id="feature_row1-8" type="right" %}
+
+
+[def]: 
