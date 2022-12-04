@@ -16,14 +16,14 @@ minimal_mistakes_skin      : "contrast" # "default", "air", "aqua", "contrast", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hossein Kafiabad"
+title                    : "Costanza Rodda"
 title_separator          : "-"
 subtitle                 : #"July 2022"
-name                     : "Hossein Kafiabad"
+name                     : "Costanza Rodda"
 description              : "My personal website."
-url                      : "https://turbulencelover.github.io/"
+url                      : "https://costanzar.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : turbulencelover/turbulencelover.github.io
+repository               : costanzar/costanzar.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -104,29 +104,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hossein Kafiabad"
+  name             : "Costanza Rodda"
   avatar           : "/assets/images/bio_pic.JPG"
-  bio              : "Applied Mathematician, <br> Fluid Dynamicist"
+  bio              : "Physicist, <br> Fluid Dynamicist"
   location         : "Durham, UK"
   email            : #"eay8226@nyu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "kafiabad@gmail.com"
+      url: "costanza.rodda@gmail.com"
     - label: "ORCID"
       icon: "fas fa-fw fa-link"
-      url: "https://orcid.org/0000-0002-8791-9217"
+      url: "https://orcid.org/0000-0001-7148-7045"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      #icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      #icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ElizabethYankovsky"
+      #icon: "fab fa-fw fa-github"
+      #url: "https://github.com/ElizabethYankovsky"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      #icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
