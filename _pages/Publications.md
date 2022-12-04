@@ -8,41 +8,44 @@ author_profile: true
 classes: wide
 
 feature_row1-0:
+  - image_path: assets/images/numerics.jpg
+    excerpt: "[Numerical study of experimentally inspired stratified turbulence forced by waves](
+https://doi.org/10.48550/arXiv.2210.02855
+) <br /> 
+    Jason Reneuve, Clément Savaro, Géraldine Davis, **Costanza Rodda**, Nicolas Mordant and Pierre Augier (2022). 
+    *submitted to Physical Review Fluids.* <br /> 
+    doi: https://doi.org/10.48550/arXiv.2210.02855"
+
+feature_row1-1:
   - image_path: assets/images/waveturbulence.png
     excerpt: "[Experimental observations of internal wave turbulence transition in a stratified fluid](https://doi.org/10.1103/PhysRevFluids.7.0948022) <br /> 
     **Costanza Rodda**, Clément Savaro, Géraldine Davis, Jason Reneuve, Pierre Augier, Joël Sommeria, Thomas Valran, Samuel Viboud, and Nicolas Mordant (2022). 
-    *Physical Review Fluids *. <br /> 
+    *Physical Review Fluids.* <br /> 
     doi: https://doi.org/10.1103/PhysRevFluids.7.094802"
 
-feature_row1-1:
+feature_row1-2:
   - image_path: assets/images/wcd.png
-    excerpt: "[Jet stream variability in a polar warming scenario – a laboratory perspective](https://doi.org/10.5194/wcd-3-937-2022) <br /> 
+    excerpt: "[Jet stream variability in a polar warming scenario – a laboratory perspective]
+    (https://doi.org/10.5194/wcd-3-937-2022) <br /> 
     **Costanza Rodda**, Uwe Harlander, and Miklos Vincze (2022). 
-    *Weather and Climate Dynamics *. <br /> 
+    *Weather and Climate Dynamics* <br /> 
     doi: https://doi.org/10.5194/wcd-3-937-2022"
 
-feature_row1-2:
+feature_row1-3:
   - image_path: /assets/images/fluids.png
     excerpt: "[Probability Distribution of Extreme Events in a Baroclinic Wave Laboratory Experiment](https://doi.org/10.3390/fluids7080274)  <br />
     Uwe Harlander, Ion Dan Borcia, Miklos Vincze, and **Costanza Rodda** (2021).
-    *Fluids*. <br />
+    *Fluids* <br />
     doi: https://doi.org/10.3390/fluids7080274"
 
-feature_row1-3:
+feature_row1-4:
   - image_path: /assets/images/Drake.png
     excerpt: "[The Drake Passage opening from an experimental fluid dynamics point of view](https://doi.org/10.1038/s41598-021-99123-0)  <br />
     Miklós Vincze, Tamás Bozóki, Mátyás Herein, Ion Dan Borcia, Uwe Harlander, Attila Horicsányi, Anita Nyerges, **Costanza Rodda**, András Pál & József Pálfy  (2021).
-    *Scientific Reports*. <br />
+    *Scientific Reports* <br />
     doi: https://doi.org/10.1038/s41598-021-99123-0"
 
-feature_row1-4:
-  - image_path: /assets/images/GCMFilters_JAMES.png
-    excerpt: "[Diffusion-based Smoothers for Spatial Filtering of Gridded Geophysical Data](https://doi.org/10.1029/2021MS002552)  <br />
-    Ian Grooms, Nora Loose, Ryan Abernathey, Jacob Steinberg, Scott Bachman, Gustavo Marques, Arthur Guillaumin, and **Elizabeth Yankovsky** (2021).
-    *Journal of Advances in Modeling Earth Systems*. <br />
-    doi: https://doi.org/10.1029/2021MS002552"
-
-feature_row1-6:
+feature_row1-5:
   - image_path: /assets/images/Spectra.pdf
     excerpt: "[Transition from geostrophic flows to inertia-gravity waves in the spectrum of a differentially heated rotating annulus experiment.](https://doi.org/10.1175/JAS-D-20-0033.1)  <br />
     **Costanza Rodda** and Uwe Harlander (2020).
@@ -57,7 +60,7 @@ feature_row1-6:
     suggests a transition towards a turbulent regime with a forward energy cascade up to where dissipation by 
     diffusive processes occurs."
 
-feature_row1-5:
+feature_row1-6:
  - image_path: /assets/images/ExperimentsFluids.png
     excerpt: "[A new atmospheric-like differentially heated rotating annulus configuration to study gravity wave emission from jets and fronts.](https://doi.org/10.1007/s00348-019-2825-z)  <br />
     **Costanza Rodda**, Steffen Hien, Ulrich Achatz, and Uwe Harlander (2019).
@@ -90,16 +93,14 @@ feature_row1-7:
 
 feature_row1-8:
   - image_path: /assets/images/thesis.png
-    #image_caption: "Figure from Jakobsson (2002)"
     excerpt: "[Gravity wave emission from jet systems in the differentially heated rotating annulus experiment](ISBN: 9783736971103) <br />
     **Costanza Rodda** (2020). Advised by: Uwe Harlander."
 --- 
-
 ### Preprints
 &nbsp;
+{% include feature_row id="feature_row1-0" type="right" %}
 ### Journal Articles
 &nbsp;
-{% include feature_row id="feature_row1-0" type="right" %}
 {% include feature_row id="feature_row1-1" type="right" %}
 {% include feature_row id="feature_row1-2" type="right" %}
 {% include feature_row id="feature_row1-3" type="right" %}
