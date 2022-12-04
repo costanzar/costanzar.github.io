@@ -61,7 +61,18 @@ feature_row1-5:
 
 feature_row1-6:
  - image_path: /assets/images/ExperimentsFluids.png
-  
+    excerpt: "[A new atmospheric-like differentially heated rotating annulus configuration to study gravity wave emission 
+    from jets and fronts.](https://doi.org/10.1007/s00348-019-2825-z)  <br />
+    **Costanza Rodda**, Steffen Hien, Ulrich Achatz, and Uwe Harlander (2019).
+    *Experiments in Fluids*. <br />
+    doi: https://doi.org/10.1007/s00348-019-2825-z  <br />
+    A new configuration of the classical baroclinic annulus experiment, recently built at the BTU laboratory, is presented 
+    in this paper. We called this experiment the “atmospheric-like” differentially heated rotating annulus for its 
+    characteristic aspect ratio that makes it more similar to the Earth’s atmosphere. <br />
+    The first evidence of gravity waves emitted from the baroclinic jet is reported. The conditions for gravity wave 
+    emission and propagation in this particular experimental set-up are examined in detail with the support of comparable 
+    numerical simulations. It emerges that, due to the complex horizontal structure of the buoyancy frequency N, where the 
+    largest values occur along the baroclinic jet axis, the gravity waves in the experiment are observed to be trapped."
 
 feature_row1-7:
   - image_path: /assets/images/barostrat.png
