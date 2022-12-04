@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "Costanza Rodda"
-  avatar           : "/assets/images/bio_pic.JPG"
+  avatar           : "/assets/images/bio_pic.jpg"
   bio              : "Physicist, <br> Fluid Dynamicist"
-  location         : "Durham, UK"
+  location         : "London, UK"
   email            : #"eay8226@nyu.edu"
   links:
     - label: "Email"
