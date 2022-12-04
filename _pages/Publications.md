@@ -54,10 +54,17 @@ feature_row1-6:
     excerpt: "[Baroclinic, Kelvin and inertia-gravity waves in the barostrat instability experiment]( https://doi.org/10.1080/03091929.2018.1461858) <br />
     **Costanza Rodda**, Ion Dan Borcia, Patrice Le Gal, Miklos Vincze, and Uwe Harlander (2018).
     *Geophysical and Astrophysical Fluid Dynamics*. <br />
-    doi: https://doi.org/10.1080/03091929.2018.1461858" <br />
-    We investigate a modified version of the classic baroclinic experiment--the barostrat experiment--in which a juxtaposition of convective and motionless stratified layers is created by introducing a vertical salt stratification. 
-
-The thermal convective motions are suppressed in a central region at mid-depth of the rotating tank, therefore double-diffusive convection rolls can develop only in thin layers located at top and bottom, where the salt stratification is weakest. For high enough rotation rates, the baroclinic instability destabilises the flow in the top and the bottom shallow convective layers, generating cyclonic and anticyclonic eddies separated by the stable stratified layer. Thanks to this alternation of layers resembling the convective and radiative layers of stars, the planetary’s atmospheric troposphere and stratosphere or turbulent layers at the sea surface above stratified waters, this new laboratory setup is of interest for both astrophysics and geophysical sciences."
+    doi: https://doi.org/10.1080/03091929.2018.1461858 <br />
+    We investigate a modified version of the classic baroclinic experiment--the barostrat experiment--in which a    
+    juxtaposition of convective and motionless stratified layers is created by introducing a vertical salt 
+    stratification.  <br />
+    The thermal convective motions are suppressed in a central region at mid-depth of the rotating tank, therefore double- 
+    diffusive convection rolls can develop only in thin layers located at top and bottom, where the salt stratification is 
+    weakest. For high enough rotation rates, the baroclinic instability destabilises the flow in the top and the bottom 
+    shallow convective layers, generating cyclonic and anticyclonic eddies separated by the stable stratified layer. 
+    Thanks to this alternation of layers resembling the convective and radiative layers of stars, the planetary’s 
+    atmospheric troposphere and stratosphere or turbulent layers at the sea surface above stratified waters, this new 
+    laboratory setup is of interest for both astrophysics and geophysical sciences."
 
 feature_row1-7:
   - image_path: /assets/images/thesis.png

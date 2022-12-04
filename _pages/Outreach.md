@@ -7,7 +7,7 @@ header:
 author_profile: true
 classes: wide
 feature_row1-0:
-  - title: "" 
+  - title: "Artist: Nina Chhita @nina.draws.scientists" 
     excerpt: "
     
 According to UNESCO science report, today only 29% of researchers are women and only 3% of Scientific Nobel Prizes have been awarded to women.
