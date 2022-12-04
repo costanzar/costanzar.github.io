@@ -1,47 +1,25 @@
 ---
 layout: single
-title: "Sharing Science with the Community"
+title: "Women in science"
 permalink: /Outreach/
 header:
     overlay_image: /assets/images/bannerocean.jpeg
 author_profile: true
 classes: wide
 
+According to UNESCO science report, today only 29% of researchers are women and only 3% of Scientific Nobel Prizes have been awarded to women.
+
+While men and women are equally represented in the undergraduate courses in science, technology, engineering and mathematics (STEM fields), the number of women in science and academia drops with each increasing level of qualification. Diverse workplaces have been shown to be more productive, more innovative and more creative because people with different background address problems in different ways, ask different questions, and come up with different hypotheses and strategies to solve problems. This is one of the reason why the scarce representation of women in academia has serious consequences on the research system.
+
 feature_row1-0:
-  - title: "STEM Professionals Day" 
-    image_path: assets/images/outreach0.png
-    excerpt: "In May 2022 I participated in Science Week at PS154 in Brooklyn, NY. 
-The school hosted a STEM Professionals Day to introduce elementary school kids to the wide variety of STEM careers available to them.
-I and several speakers held a ZOOM session in which each of us discussed the role science and engineering play in our careers, and then the students were invited to Q&A sessions in breakout rooms with each speaker. 
-I enjoyed speaking with the students and was surprised by how creative (*'what's your spirit sea creature?'*) and insightful (*'will technology be society's downfall or savior?'*) some of their questions were!" 
+  - title: "Of Course!" 
+    image_path: assets/images/OfCourse.jpg
+    excerpt: "One way to address this systematic under-representation of women towards the top of the academic career path (“leaky pipeline”) is to provide role models, women and men, to the students and scientific community. A beautiful initiative in this area is a comic book called [“Of course!”](https://www.wavestoweather.de/equal_opportunity/activities/comic-book/index.html) has been designed, produced, printed and distributed in November 2020 by LMU Munich. My story is featured among other eight illustrated interviews of researchers who experienced gender biases and imbalance at home, during their education, and at their work place. The aim is to inspire and encourage young women by showing examples of how by making positive changes can lead to a happy and fulfilled life as a scientist. Here is my story illustrated by the graphic designer and cartoonist Dominik Wendland." 
 
 feature_row1-1:
-  - title: "New Jersey Ocean Fun Days"
-    image_path: assets/images/outreach1.jpeg
-    excerpt: "[NJ Ocean Fun Days](http://njseagrant.org/education/special-events/ocean-fun-days) are an event held every spring to teach local families and particularly kids about the coastal environment and how to take care of our oceans!
-Each year volunteers come to two locations – Sandy Hook and Island Beach State Park – to present interactive exhibits about local ecosystems, sustainable fisheries, conservation, climate science, and oceanography.
-I participated in the NOAA-GFDL exhibit at the Island Beach State Park event for several years. We presented experiments on ocean acidification and sea ice to teach visitors about some of the ways in which human activities are influencing the oceans."
-
-feature_row1-2:
-  - title: "Princeton Plasma Physics Lab's Young Women's Conference"
-    image_path: assets/images/outreach2.jpg
-    excerpt: "[The PPPL Young Women’s Conference](https://www.pppl.gov/2022-YWC) is devoted to encouraging middle- and high-school aged girls to pursue careers in STEM fields. 
-Volunteers from local labs and research institutions lead presentations, hands-on-activities, and laboratory tours and speak to students about pursuing scientific careers. 
-I participated in this event for two years, and in 2019 I coordinated the Princeton AOS/GFDL exhibit. 
-I and three volunteers designed several experiments to present, and were excited to see how enthusiastic and knowledgeable the young women we spoke with were." 
-
-feature_row1-3:
-  - title: "Volunteering in Elizabeth, New Jersey"
-    image_path: /assets/images/outreach3.jpg
-    image_caption: "Interview with Christian Bollwage, the mayor of Elizabeth."
-    excerpt: "I volunteered for the nonprofit New Jersey-based organization Future City aimed at educating local communities about environmental issues, working with policy-makers and government agencies (including the Trash-Free Waters project of the EPA), and developing environmental initiatives. 
-I participated in the City of Elizabeth Estuary Day and Environment Day where I performed lab experiments and discussed climate dynamics with groups of students from local schools. 
-Additionally, I worked with summer interns at Future City during the summer of 2017 and had an interview with the city’s mayor to discuss environmental issues."
-
-feature_row1-4:
-  - title: "Plainsboro Public Library"
-    image_path: /assets/images/outreach4.jpg
-    excerpt: "I worked with the Plainsboro Public Library Youth Program to develop a workshop to teach elementary school students about the Arctic Ocean and its role in climate. The title of the program was “Motion in the Ocean: Our Oceans and You”. I presented hands-on experiments and spoke with students regarding their thoughts on climate science and a simplified summary of my research on Arctic dynamics."
+  - title: "Italian projects for female students in STEM"
+    image_path: assets/images/Costanza-IlPiccolo-crop.pdf
+    excerpt: "I have been interviewed by the journalist Benedetta Moro for a paper in the Italian newspaper “Il Piccolo” on 26 January 2021. The article talks about my involvement in the project “Of course!” as an inspiring female role model. The challenges I faced, Benedetta wrote, are widespread among women in the academic world and although the path is sometimes very hard, having the encouragement to other women (but men too) can be fundamental. The article goes on saying that in Germany, equal opportunities are taken very seriously with the hope to increase the number of women in leading positions in academia, and there are several projects and funds dedicated to this. In particular, the comic book project aims to encourage young female students that would like to start a career in science. Although choosing this career can be tough, and there are obstacles to overcome, it is a gratifying job. It is also mentioned that I won the Max-Grunebaum prize for the best doctoral thesis at the BTU Cottbus-Senftenberg university and that I was shortlisted for the Bertha Benz prize."
 
 ---
 
