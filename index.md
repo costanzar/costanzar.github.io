@@ -3,7 +3,6 @@ layout: single
 author_profile: true
 ---
 {: style="text-align: justify;"}
-I am an assistant professor in the Department of Mathematical Sciences at Durham University. My recent research has been focused on numerical and theoretical Geophysical Fluid Dynamics, but my interests are fluid in addition to being about fluids.
-
+I am an italian physicist and I currently work as a research associate at Imperial College London. 
 
 
