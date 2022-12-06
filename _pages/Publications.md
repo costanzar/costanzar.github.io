@@ -24,7 +24,7 @@ feature_row1-1:
 
 feature_row1-2:
   - image_path: assets/images/wcd.png
-    excerpt: "[Jet stream variability in a polar warming scenario – a laboratory perspective]
+    excerpt: "[Jet stream variability in a polar warming scenario–a laboratory perspective]
     (https://doi.org/10.5194/wcd-3-937-2022) <br /> 
     **Costanza Rodda**, Uwe Harlander, and Miklos Vincze (2022). 
     *Weather and Climate Dynamics* <br /> 
@@ -109,9 +109,6 @@ feature_row1-8:
 {% include feature_row id="feature_row1-5" type="right" %}
 {% include feature_row id="feature_row1-6" type="right" %}
 {% include feature_row id="feature_row1-7" type="right" %}
-### Books
+### PhD Thesis
 &nbsp;
 {% include feature_row id="feature_row1-8" type="right" %}
-
-
-[def]: 
