@@ -7,7 +7,7 @@ header:
 author_profile: true
 classes: wide
 
-feature_row1-0:
+feature_row1-10:
   - image_path: assets/images/numerics.jpg
     excerpt: "[Fast and slow response modes in the ventilation of a living com- puter laboratory](
 https://arxiv.org/abs/2306.03183) <br /> 
@@ -106,6 +106,7 @@ feature_row1-8:
 --- 
 ### Preprints
 &nbsp;
+{% include feature_row id="feature_row1-10" type="right" %}
 {% include feature_row id="feature_row1-0" type="right" %}
 ### Journal Articles
 &nbsp;
