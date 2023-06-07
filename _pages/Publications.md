@@ -28,8 +28,8 @@ feature_row1-1:
     excerpt: "[Experimental observations of internal wave turbulence transition in a stratified fluid](https://journals.aps.org/prfluids/pdf/10.1103/PhysRevFluids.7.094802) <br /> 
     **Costanza Rodda**, Clément Savaro, Géraldine Davis, Jason Reneuve, Pierre Augier, Joël Sommeria, Thomas Valran, Samuel Viboud, and Nicolas Mordant (2022). 
     *Physical Review Fluids* <br /> 
-    doi: https://doi.org/10.1103/PhysRevFluids.7.094802
-    This paper studies the dynamical regimes experimentally developing in a stratified fluid forced by internal gravity waves in a pentagonal domain. We find that by changing the shape and increasing the dimensions of the domain finite-size effects diminish and wave turbulence is observed. In this regime, the temporal spectra decay with a slope compatible with the Garrett-Munk spectra. Different regimes appear by changing the forcing conditions, namely, discrete wave turbulence, weak wave turbulence, and strongly stratified turbulence. The buoyancy Reynolds number $Re_b$ marks well the transitions between the regimes, with weak wave turbulence occurring for $1<Re_b<3.5$ and strongly nonlinear stratified turbulence for higher $Re_b$."
+    *doi: https://doi.org/10.1103/PhysRevFluids.7.094802* <br />
+    This paper studies the dynamical regimes experimentally developing in a stratified fluid forced by internal gravity waves in a pentagonal domain. We find that by changing the shape and increasing the dimensions of the domain finite-size effects diminish and wave turbulence is observed. In this regime, the temporal spectra decay with a slope compatible with the Garrett-Munk spectra. Different regimes appear by changing the forcing conditions, namely, discrete wave turbulence, weak wave turbulence, and strongly stratified turbulence. The buoyancy Reynolds number $'Re_b'$ marks well the transitions between the regimes, with weak wave turbulence occurring for $1<Re_b<3.5$ and strongly nonlinear stratified turbulence for higher $Re_b$."
 
 feature_row1-2:
   - image_path: assets/images/wcd.png
