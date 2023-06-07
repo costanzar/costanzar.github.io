@@ -9,7 +9,7 @@ classes: wide
 
 feature_row1-10:
   - image_path: assets/images/PhaseDataJuly.pdf
-    excerpt: "[Fast and slow response modes in the ventilation of a living com- puter laboratory](
+    excerpt: "[Fast and slow response modes in the ventilation of a living computer laboratory](
 https://arxiv.org/abs/2306.03183) <br /> 
     **Costanza Rodda**, Graham Highes, and John Craske (2023). 
     *submitted to Building and Environment.* <br />
@@ -25,15 +25,16 @@ https://doi.org/10.48550/arXiv.2210.02855) <br />
 
 feature_row1-1:
   - image_path: assets/images/waveturbulence.png
-    excerpt: "[Experimental observations of internal wave turbulence transition in a stratified fluid](https://doi.org/10.1103/PhysRevFluids.7.0948022) <br /> 
+    excerpt: "[Experimental observations of internal wave turbulence transition in a stratified fluid](https://journals.aps.org/prfluids/pdf/10.1103/PhysRevFluids.7.094802) <br /> 
     **Costanza Rodda**, Clément Savaro, Géraldine Davis, Jason Reneuve, Pierre Augier, Joël Sommeria, Thomas Valran, Samuel Viboud, and Nicolas Mordant (2022). 
     *Physical Review Fluids* <br /> 
-    doi: https://doi.org/10.1103/PhysRevFluids.7.094802"
+    doi: https://doi.org/10.1103/PhysRevFluids.7.094802
+    This paper studies the dynamical regimes experimentally developing in a stratified fluid forced by internal gravity waves in a pentagonal domain. We find that by changing the shape and increasing the dimensions of the domain finite-size effects diminish and wave turbulence is observed. In this regime, the temporal spectra decay with a slope compatible with the Garrett-Munk spectra. Different regimes appear by changing the forcing conditions, namely, discrete wave turbulence, weak wave turbulence, and strongly stratified turbulence. The buoyancy Reynolds number $Re_b$ marks well the transitions between the regimes, with weak wave turbulence occurring for $1<Re_b<3.5$ and strongly nonlinear stratified turbulence for higher $Re_b$."
 
 feature_row1-2:
   - image_path: assets/images/wcd.png
     excerpt: "[Jet stream variability in a polar warming scenario–a laboratory perspective]
-    (https://doi.org/10.5194/wcd-3-937-2022) <br /> 
+  (https://doi.org/10.5194/wcd-3-937-2022) <br /> 
     **Costanza Rodda**, Uwe Harlander, and Miklos Vincze (2022). 
     *Weather and Climate Dynamics* <br /> 
     doi: https://doi.org/10.5194/wcd-3-937-2022"
