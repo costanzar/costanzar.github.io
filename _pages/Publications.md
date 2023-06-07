@@ -8,11 +8,12 @@ author_profile: true
 classes: wide
 
 feature_row1-10:
-  - image_path: assets/images/numerics.jpg
+  - image_path: assets/images/PhaseDataJuly.pdf
     excerpt: "[Fast and slow response modes in the ventilation of a living com- puter laboratory](
 https://arxiv.org/abs/2306.03183) <br /> 
     **Costanza Rodda**, Graham Highes, and John Craske (2023). 
-    *submitted to Building and Environment.* <br />"
+    *submitted to Building and Environment.* <br />
+    Our study is based on measurements taken in an instrumented computer laboratory classroom from which we develop a CO2 evolution analytical model for a multi-zone space that accounts for the parametrisation of inter- and sub-zonal mixing. The analysis of the model and data using dynamical system techniques highlights lower dimensional spaces that are representative of the leading processes in the system and the most relevant physical parameters."
 
 feature_row1-0:
   - image_path: assets/images/numerics.jpg
