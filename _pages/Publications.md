@@ -6,13 +6,13 @@ header:
     #overlay_image: /assets/images/banner_neon.png
 author_profile: true
 classes: wide
-feature_row1-10:
+
+feature_row1-0:
   - image_path: assets/images/numerics.jpg
     excerpt: "[Fast and slow response modes in the ventilation of a living com- puter laboratory](
 https://arxiv.org/abs/2306.03183) <br /> 
     **Costanza Rodda**, Graham Highes, and John Craske (2023). 
-    *submitted to Building and Environment.* <br /> 
-  
+    *submitted to Building and Environment.* <br />"
 
 feature_row1-0:
   - image_path: assets/images/numerics.jpg
@@ -106,7 +106,6 @@ feature_row1-8:
 --- 
 ### Preprints
 &nbsp;
-{% include feature_row id="feature_row1-10" type="right" %}
 {% include feature_row id="feature_row1-0" type="right" %}
 ### Journal Articles
 &nbsp;
