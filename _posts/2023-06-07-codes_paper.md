@@ -17,7 +17,7 @@ Here are some useful information regarding the data and codes used in the paper 
 
 
 <figure>
-	<a href="/assets/images/scatter_CO2_occupancy.pdf"><img src="/assets/images/scatter_CO2_occupancy.pdf"></a>
+	<a href="/assets/images/scatter_CO2_occupancy.pdf"><img src="/assets/images/scatter_CO2_occupancy.pdf" width="300"></a>
 	<figcaption>Excess CO$_2$ concentration measurements from the sensors in the room versus the occupancy from data recorded in July 2022. The black straight line indicates the theoretical values of CO2 concentration from the steady state of the theoretical model. The red dots and line represent the measured data’s mean and linear fit.</figcaption>
 </figure>
 
