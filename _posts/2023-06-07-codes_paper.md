@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Codes and Data paper ventilation"
 excerpt: "Description of the codes and data used for the paper 'Fast and slow response modes in the ventilation of a living computer laboratory'. "
 header:
