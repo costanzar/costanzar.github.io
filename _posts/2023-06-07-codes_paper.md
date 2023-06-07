@@ -13,15 +13,17 @@ tags:
 ## Codes and Data paper ventilation
 Here are some useful information regarding the data and codes used in the paper 'Fast and slow response modes in the ventilation of a living computer laboratory' (add doi and information about publication). The data and codes are available here.
 
-### CO$$_2$$ vs Occupancy
+### CO<sub>2</sub> vs Occupancy
 
 
 <figure>
 	<a href="/assets/images/scatter_CO2_occupancy.pdf"><img src="/assets/images/scatter_CO2_occupancy.pdf" width="800"></a>
-	<figcaption>Excess CO$$_2$$ concentration measurements from the sensors in the room versus the occupancy from data recorded in July 2022. The black straight line indicates the theoretical values of CO2 concentration from the steady state of the theoretical model. The red dots and line represent the measured data’s mean and linear fit.</figcaption>
+	<figcaption>Excess CO<sub>2</sub> concentration measurements from the sensors in the room versus the occupancy from data recorded in July 2022. The black straight line indicates the theoretical values of CO2 concentration from the steady state of the theoretical model. The red dots and line represent the measured data’s mean and linear fit.</figcaption>
 </figure>
 
+Example of equation:
 
+$$ x = y^2 /sqrt{2} $$
 #### Two Up
 
 Apply the `half` class like so to display two images side by side that share the same caption.
