@@ -106,6 +106,7 @@ feature_row1-8:
 --- 
 ### Preprints
 &nbsp;
+{% include feature_row id="feature_row1-10" type="right" %}
 {% include feature_row id="feature_row1-0" type="right" %}
 ### Journal Articles
 &nbsp;
