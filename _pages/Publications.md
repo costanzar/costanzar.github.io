@@ -34,10 +34,11 @@ feature_row1-1:
 feature_row1-2:
   - image_path: assets/images/wcd.png
     excerpt: "[Jet stream variability in a polar warming scenario–a laboratory perspective]
-  (https://doi.org/10.5194/wcd-3-937-2022) <br /> 
+(https://doi.org/10.5194/wcd-3-937-2022) <br /> 
     **Costanza Rodda**, Uwe Harlander, and Miklos Vincze (2022). 
     *Weather and Climate Dynamics* <br /> 
-    doi: https://doi.org/10.5194/wcd-3-937-2022"
+    *doi: https://doi.org/10.5194/wcd-3-937-2022* <br /> 
+    Does global warming affect the mid-latitude circulation? Numerical simulations are hampered by the complexity of feedback phenomena while with laboratory experiments we were able to isolate the main dynamics elements. Our results show that a progressive decrease of the meridional temperature difference slows down the eastward propagation of the jet stream and complexifies its structure. Temperature variability decreases which means that extreme events are milder but more frequent in a global warming scenario."
 
 feature_row1-3:
   - image_path: /assets/images/fluids.png
