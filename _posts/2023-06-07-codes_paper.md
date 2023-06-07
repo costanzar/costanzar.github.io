@@ -10,18 +10,17 @@ tags:
   - test
 ---
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
+## Codes and Data paper ventilation
+Here are some useful information regarding the data and codes used in the paper 'Fast and slow response modes in the ventilation of a living computer laboratory' (add doi and information about publication). The data and codes are available here.
 
-### Figures (for images or video)
+### $CO_2$ vs Occupancy
 
-#### One Up
 
 <figure>
-	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
-	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+	<a href="/assets/images/scatter_CO2_occupancy.pdf"><img src="/assets/images/scatter_CO2_occupancy.pdf"></a>
+	<figcaption>Excess CO$_2$ concentration measurements from the sensors in the room versus the occupancy from data recorded in July 2022. The black straight line indicates the theoretical values of CO2 concentration from the steady state of the theoretical model. The red dots and line represent the measured data’s mean and linear fit.</figcaption>
 </figure>
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
 
 #### Two Up
 
