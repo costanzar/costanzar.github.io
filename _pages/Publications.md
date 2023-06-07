@@ -13,7 +13,7 @@ feature_row1-10:
 https://arxiv.org/abs/2306.03183) <br /> 
     **Costanza Rodda**, Graham Highes, and John Craske (2023). 
     *submitted to Building and Environment.* <br />
-    Our study is based on measurements taken in an instrumented computer laboratory classroom from which we develop a CO<sub>2 evolution analytical model for a multi-zone space that accounts for the parametrisation of inter- and sub-zonal mixing. The analysis of the model and data using dynamical system techniques highlights lower dimensional spaces that are representative of the leading processes in the system and the most relevant physical parameters."
+    Our study is based on measurements taken in an instrumented computer laboratory classroom from which we develop a CO<sub>2</sub> evolution analytical model for a multi-zone space that accounts for the parametrisation of inter- and sub-zonal mixing. The analysis of the model and data using dynamical system techniques highlights lower dimensional spaces that are representative of the leading processes in the system and the most relevant physical parameters."
 
 feature_row1-0:
   - image_path: assets/images/numerics.jpg
@@ -29,7 +29,7 @@ feature_row1-1:
     **Costanza Rodda**, Clément Savaro, Géraldine Davis, Jason Reneuve, Pierre Augier, Joël Sommeria, Thomas Valran, Samuel Viboud, and Nicolas Mordant (2022). 
     *Physical Review Fluids* <br /> 
     *doi: https://doi.org/10.1103/PhysRevFluids.7.094802* <br />
-    This paper studies the dynamical regimes experimentally developing in a stratified fluid forced by internal gravity waves in a pentagonal domain. We find that by changing the shape and increasing the dimensions of the domain finite-size effects diminish and wave turbulence is observed. In this regime, the temporal spectra decay with a slope compatible with the Garrett-Munk spectra. Different regimes appear by changing the forcing conditions, namely, discrete wave turbulence, weak wave turbulence, and strongly stratified turbulence. The buoyancy Reynolds number Re<sub>b marks well the transitions between the regimes, with weak wave turbulence occurring for 1<Re<sub>b<3.5 and strongly nonlinear stratified turbulence for higher Re<sub>b."
+    This paper studies the dynamical regimes experimentally developing in a stratified fluid forced by internal gravity waves in a pentagonal domain. We find that by changing the shape and increasing the dimensions of the domain finite-size effects diminish and wave turbulence is observed. In this regime, the temporal spectra decay with a slope compatible with the Garrett-Munk spectra. Different regimes appear by changing the forcing conditions, namely, discrete wave turbulence, weak wave turbulence, and strongly stratified turbulence. The buoyancy Reynolds number Re<sub>b</sub> marks well the transitions between the regimes, with weak wave turbulence occurring for 1<Re<sub>b</sub><3.5 and strongly nonlinear stratified turbulence for higher Re<sub>b</sub>."
 
 feature_row1-2:
   - image_path: assets/images/wcd.png
