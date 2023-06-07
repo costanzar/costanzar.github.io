@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Data & Codes"
-permalink: /Data/
+permalink: /Codes/
 header:
     #overlay_image: /assets/images/banner_neon.png
 author_profile: true
