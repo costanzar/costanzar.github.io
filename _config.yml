@@ -108,11 +108,11 @@ author:
   avatar           : "/assets/images/profile.png"
   bio              : "Physicist, <br> Fluid Dynamicist"
   location         : "London, UK"
-  email            : "costanza.rodda@gmail.com"
+  email            : "c.rodda@imperial.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "costanza.rodda@gmail.com"
+      url: "c.rodda@imperial.ac.uk"
     - label: "ORCID"
       icon: "fas fa-fw fa-link"
       url: "https://orcid.org/0000-0001-7148-7045"

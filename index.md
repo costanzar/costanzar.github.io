@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 {: style="text-align: justify;"}
-Hi! I am a research associate in the [Fluid Mechanics group at Imperial College London](https://www.imperial.ac.uk/fluid-mechanics/research/), where I am investigating how localised heat sources impact the stratification and tracer transport in ventilated buildings. 
+Hi! I am a Lecturer in the [Fluid Mechanics group at Imperial College London](https://www.imperial.ac.uk/fluid-mechanics/people/), where I am investigating how localised heat sources impact the stratification and tracer transport in ventilated buildings. 
 
 The focus of my research has been on different applications of fluid mechanics spanning from geophysical flows to indoor ventilation.
 
