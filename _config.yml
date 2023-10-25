@@ -110,12 +110,10 @@ author:
   location         : "London, UK"
   email            : "c.rodda@imperial.ac.uk"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "c.rodda@imperial.ac.uk"
+  
     - label: "Webpage"
       icon: "fas fa-fw fa-link"
-      url: "c.rodda@imperial.ac.uk"
+      url: "https://www.imperial.ac.uk/people/c.rodda"
     - label: "ORCID"
       icon: "fas fa-fw fa-link"
       url: "https://orcid.org/0000-0001-7148-7045"

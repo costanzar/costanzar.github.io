@@ -23,6 +23,7 @@ This work is part of the project [DStratify](https://www.dstratify.org).
 
 ## Internal Gravity wave turbulence
 
+During my postdoc in the research group of Prof Nicolas Mordant, I studied gravity waves in stratified fluids, with a focus on ocean applications. I have used the Coriolis facility in Grenoble to run experiments that involved advanced measurement techniques, which allowed me to acquire resolved velocities in 3D and time. I analysed such a unique dataset to gain insights into gravity waves’ energy transmission among scales and their path toward mixing, which is one of the most important and least understood elements to closing the energy budget in the ocean.
 
 
 ## Climate Change throught laboratory experiments
@@ -30,3 +31,7 @@ This work is part of the project [DStratify](https://www.dstratify.org).
 
 
 ## Spontaneous emission of gravity waves
+
+During my PhD, I introduced two novel configurations of the classical baroclinic annulus experiment designed to better resemble the mid-atmosphere dynamics. Such experiments allowed me to investigate the interaction between the large-scale Rossby and small-scale gravity waves. I have examined the conditions for gravity wave emission and propagation in detail with the support of comparable numerical simulations performed at the University of Frankfurt.
+
+
