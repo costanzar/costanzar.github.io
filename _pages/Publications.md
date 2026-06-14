@@ -19,8 +19,8 @@ feature_row_strat_1:
   - image_path: /assets/images/placeholder_publication.png
     excerpt: "[Lagrangian dispersion in experimental stratified turbulence](https://arxiv.org/abs/2603.05102) <br />
     M. Magnier, **Costanza Rodda**, Clément Savaro, Pierre Augier, N. Machicoane, Thomas Valran, and collaborators (2026). 
-    *arXiv preprint* <br />
-    This work studies transport and dispersion in experimentally generated stratified turbulence from a Lagrangian perspective, with a focus on how stable density stratification shapes particle spreading and mixing."
+    *Physical Review Letters, accepted for publication* <br />
+    Understanding how particles disperse in stratified turbulence is key to many geophysical and environmental flows, from the transport of nutrients in the ocean to the spreading of tracers in the atmosphere. In this work, we tackle this question experimentally from a Lagrangian perspective, following how stable stratification modifies motion, mixing, and dispersion. By combining controlled laboratory turbulence with particle-based analysis, this paper helps clarify how transport operates in flows where stratification fundamentally reshapes the dynamics."
 
 feature_row_strat_2:
   - image_path: /assets/images/placeholder_publication.png
@@ -81,14 +81,17 @@ feature_row_rot_5:
     excerpt: "[Probability Distribution of Extreme Events in a Baroclinic Wave Laboratory Experiment](https://doi.org/10.3390/fluids7080274)  <br />
     Uwe Harlander, Ion Dan Borcia, Miklos Vincze, and **Costanza Rodda** (2021).
     *Fluids* <br />
-    doi: https://doi.org/10.3390/fluids7080274"
+    doi: https://doi.org/10.3390/fluids7080274* <br /> 
+    This paper investigates the statistics of extreme events in a laboratory model of baroclinic waves. By analysing temperature fluctuations in a differentially heated rotating annulus, we explore how the probability distribution of extremes depends on the underlying flow regime and forcing conditions. Our results provide insight into the mechanisms controlling variability and rare events in geophysical and climate-related flows."
 
 feature_row_rot_6:
   - image_path: /assets/images/Drake.png
     excerpt: "[The Drake Passage opening from an experimental fluid dynamics point of view](https://doi.org/10.1038/s41598-021-99123-0)  <br />
     Miklós Vincze, Tamás Bozóki, Mátyás Herein, Ion Dan Borcia, Uwe Harlander, Attila Horicsányi, Anita Nyerges, **Costanza Rodda**, András Pál and József Pálfy (2021).
     *Scientific Reports* <br />
-    doi: https://doi.org/10.1038/s41598-021-99123-0"
+    doi: https://doi.org/10.1038/s41598-021-99123-0 <br />
+    What happens when a major ocean gateway opens? In this paper, we tackle this question through laboratory experiments that reproduce an idealised ocean circulation in a rotating tank. By comparing the flow before and after the opening of a Drake-Passage-like channel, we show how a southern-ocean gateway can reorganise large-scale circulation and transport. The results offer an intuitive fluid-dynamical perspective on why the opening of the Drake Passage played such an important role in Earth’s climate history."
+    
 
 feature_row_rot_7:
   - image_path: /assets/images/Spectra.pdf
@@ -107,8 +110,7 @@ feature_row_rot_7:
 
 feature_row_rot_8:
  - image_path: /assets/images/ExperimentsFluids.png
-   excerpt: "[A new atmospheric-like differentially heated rotating annulus configuration to study gravity wave emission
-    from jets and fronts.](https://doi.org/10.1007/s00348-019-2825-z)  <br />
+   excerpt: "[A new atmospheric-like differentially heated rotating annulus configuration to study gravity wave emission from jets and fronts.](https://doi.org/10.1007/s00348-019-2825-z)  <br />
     **Costanza Rodda**, Steffen Hien, Ulrich Achatz, and Uwe Harlander (2019).
     *Experiments in Fluids*. <br />
     doi: https://doi.org/10.1007/s00348-019-2825-z  <br />
@@ -130,8 +132,7 @@ feature_row_rot_9:
     We investigate a modified version of the classic baroclinic experiment--the barostrat experiment--in which a    
     juxtaposition of convective and motionless stratified layers is created by introducing a vertical salt 
     stratification.  <br />
-    The thermal convective motions are suppressed in a central region at mid-depth of the rotating tank, therefore double- 
-    diffusive convection rolls can develop only in thin layers located at top and bottom, where the salt stratification is 
+    The thermal convective motions are suppressed in a central region at mid-depth of the rotating tank, therefore double-diffusive convection rolls can develop only in thin layers located at top and bottom, where the salt stratification is 
     weakest. For high enough rotation rates, the baroclinic instability destabilises the flow in the top and the bottom 
     shallow convective layers, generating cyclonic and anticyclonic eddies separated by the stable stratified layer. 
     Thanks to this alternation of layers resembling the convective and radiative layers of stars, the planetary’s 
