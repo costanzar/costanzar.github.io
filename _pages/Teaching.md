@@ -7,8 +7,31 @@ header:
 author_profile: true
 classes: wide
 ---
-I have always been passionate about teaching, and I have tried as much as possible to find occasions to explore and gain teaching experiences. During my undergraduate studies in Physics, I was involved as a tutor in the project “Physics on a boat”, organised in collaboration with the National Institute of Nuclear Physics. In this project, I had the chance to combine my practical skills and knowledge about sailing boats, acquired during many years as a sailing athlete, with the recently learned theoretical basis of fluid mechanics.
+I care deeply about teaching and enjoy helping students build intuition for fluid mechanics, especially when connecting theory to real environmental and geophysical flows. My teaching spans undergraduate and postgraduate levels, and includes lectures, tutorials, laboratory sessions, and project supervision.
 
-During my PhD in Germany, I assisted for 4 years in different courses in the Mechanical Engineering department. I gave lectures and tutorials in the course “Matlab for data analysis” and organized short courses on fluid mechanical laboratory experiments involving some lab experiment sessions. Also, during this period, I co-supervised 4 Erasmus internship projects and 1 Master thesis. I was involved in the design of the student’s projects, in the laboratory’s daily supervision, and in the evaluation of their final projects.
 
-After obtaining my PhD in Germany, I moved to the University of Grenoble (France) for a postdoctoral research position. Despite the Covid pandemic, I continued my involvement in teaching. During this period, I had the opportunity to co-teach the fluid mechanics course, and I was assigned a group of 50 students to do the laboratory sessions with. My roles in this course included designing the syllabus, constructing the experiments that complement the lectures, preparing the tutorials, and marking the students’ assignments.
+
+### Current teaching at Imperial College London
+
+I teach and support multiple modules in the MEng and MSc Engineering Fluid Mechanics for the Offshore, Coastal and Built Environments in the Department of Civil and Environmental Engineering at Imperial College London.
+
+#### Undergraduate
+- **Fluid Mechanics 2**
+
+#### MSc / Postgraduate
+- **Fluid Mechanics Fundamentals**
+- **Air-Sea Interaction Dynamics**
+
+### Project supervision
+
+I also supervise several undergraduate and MSc research projects in fluid mechanics and related areas.
+
+### Previous teaching experience
+
+Before joining Imperial, I was involved in teaching and supervision in both Germany and France.
+
+During my PhD in Germany, I taught and assisted in several courses in the Mechanical Engineering department. This included lectures and tutorials for *Matlab for Data Analysis*, as well as short courses on fluid-mechanics laboratory experiments with hands-on lab sessions. During this period, I also co-supervised four Erasmus internship projects and one Master’s thesis, contributing to the design of the projects, daily laboratory supervision, and the evaluation of the final work.
+
+After my PhD, I moved to Grenoble for a postdoctoral research position at LEGI. There, I continued my involvement in teaching by co-teaching a fluid mechanics course and leading laboratory sessions for a group of around 50 students. My role included contributing to the syllabus, developing experiments to complement the lectures, preparing tutorials, and marking assignments.
+
+My interest in teaching began even earlier during my undergraduate studies in Physics, when I took part in the project *Physics on a Boat*, organised in collaboration with the National Institute of Nuclear Physics. This was an opportunity to combine my practical experience as a sailing athlete with my growing interest in fluid mechanics, and it remains one of my earliest and most formative teaching experiences.
