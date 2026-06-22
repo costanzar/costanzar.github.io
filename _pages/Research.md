@@ -9,7 +9,9 @@ author_profile: true
 classes: wide
 
 ---
+
 My research uses laboratory experiments to investigate stratified and rotating flows across a range of environmental and engineering problems, from atmospheric and oceanic dynamics to building ventilation and offshore wind. A common theme across these projects is the role of stratification, wave generation, mixing, and transport in shaping complex flows.
+
 ---
 ## Offshore wind farms and atmospheric gravity waves
 *When wind farms make waves.*
@@ -21,6 +23,7 @@ As offshore wind farms continue to grow in size, they are beginning to interact 
 In this new line of research, I investigate when and how offshore wind farms radiate gravity waves, and how these wave-induced effects feed back onto the surrounding atmospheric flow. This is a timely problem in sustainability and environmental fluid mechanics, because these processes are still largely absent from current wind-farm models despite their potential importance for power prediction, wake evolution, and regional flow modification.
 
 To study these mechanisms in a controlled way, I use laboratory experiments in a long stratified water flume, where a model wind farm is towed through a density stratification designed to mimic the atmospheric capping layer. These experiments make it possible to isolate the onset of wave generation and to quantify how atmospheric stratification controls the coupling between wind farms and the larger-scale flow.
+
 ---
 ## Thermal stratification and mixing in confined spaces
 

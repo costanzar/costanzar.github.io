@@ -23,7 +23,7 @@ feature_row_strat_1:
     Understanding how particles disperse in stratified turbulence is key to many geophysical and environmental flows, from the transport of nutrients in the ocean to the spreading of tracers in the atmosphere. In this work, we tackle this question experimentally from a Lagrangian perspective, following how stable stratification modifies motion, mixing, and dispersion. By combining controlled laboratory turbulence with particle-based analysis, this paper helps clarify how transport operates in flows where stratification fundamentally reshapes the dynamics."
 
 feature_row_strat_2:
-  - image_path: /assets/images/placeholder_publication.png
+  - image_path: /assets/images/PhysRevLett.pdf
     excerpt: "[From internal waves to turbulence in a stably stratified fluid](#) <br />
     **Costanza Rodda**, Clément Savaro, V. Bouillaut, Pierre Augier, Joël Sommeria, Thomas Valran, and collaborators (2023). 
     *Physical Review Letters* <br />
