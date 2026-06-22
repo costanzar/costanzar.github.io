@@ -16,8 +16,6 @@ My research uses laboratory experiments to investigate stratified and rotating f
 ## Offshore wind farms and atmospheric gravity waves
 *When wind farms make waves.*
 
-## Offshore wind farms and atmospheric gravity waves
-
 As offshore wind farms continue to grow in size, they are beginning to interact not only with the atmospheric boundary layer, but also with the capping inversion and the stratified free atmosphere above. At these scales, wind farms can generate gravity waves that propagate energy and momentum over long distances, altering the flow far upstream and downstream of the farm itself.
 
 In this new line of research, I investigate when and how offshore wind farms radiate gravity waves, and how these wave-induced effects feed back onto the surrounding atmospheric flow. This is a timely problem in sustainability and environmental fluid mechanics, because these processes are still largely absent from current wind-farm models despite their potential importance for power prediction, wake evolution, and regional flow modification.

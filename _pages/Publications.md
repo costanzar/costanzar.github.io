@@ -124,7 +124,7 @@ feature_row_rot_8:
 
 
 feature_row_rot_9:
-  - image_path: /assets/images/barostrat.png
+  - image_path: /assets/images/barostrat.pdf
     excerpt: "[Baroclinic, Kelvin and inertia-gravity waves in the barostrat instability experiment]( https://doi.org/10.1080/03091929.2018.1461858) <br />
     **Costanza Rodda**, Ion Dan Borcia, Patrice Le Gal, Miklos Vincze, and Uwe Harlander (2018).
     *Geophysical and Astrophysical Fluid Dynamics*. <br />
