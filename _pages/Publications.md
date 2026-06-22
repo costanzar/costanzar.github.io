@@ -47,7 +47,7 @@ https://doi.org/10.48550/arXiv.2210.02855) <br />
     doi: https://doi.org/10.48550/arXiv.2210.02855"
 
 feature_row_rot_1:
-  - image_path: /assets/images/placeholder_publication.png
+  - image_path: /assets/images/Encyclopedia.pdf
     excerpt: "[Two-Dimensional Turbulence](#) <br />
     Hossein Kafiabad and **Costanza Rodda** (2025). <br />
     This work addresses fundamental aspects of two-dimensional turbulence, a cornerstone framework for understanding idealised geophysical and planetary flows."
